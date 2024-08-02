@@ -21,11 +21,14 @@
     a:hover{
         transform:scale(1.05);
     } 
-    
-    p{
-        margin-top: 80px;
+
+    h4{
+        width: 100px;
+        margin: 30px auto;
+        font-size: 22px;
+        color: var(--text-color);
     }
-}
+}  
 
 .projectsContainer{
     display: flex;

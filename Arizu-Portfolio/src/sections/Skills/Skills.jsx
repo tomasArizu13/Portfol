@@ -50,20 +50,12 @@ function Skills() {
            src={checkMarkIcon}
            skill = 'Threejs'
            />
-           <SkillList 
-           src={checkMarkIcon}
-           skill = 'Vue'
-           />
         </div>
         <hr />
         <div className={styles.skillList}>
            <SkillList 
            src={checkMarkIcon}
            skill = 'Git'
-           />
-           <SkillList 
-           src={checkMarkIcon}
-           skill = 'Jest'
            />
            <SkillList 
            src={checkMarkIcon}

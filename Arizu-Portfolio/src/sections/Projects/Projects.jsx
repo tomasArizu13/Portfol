@@ -14,26 +14,26 @@ function Projects() {
        <ProjectCard 
        src={tresD} 
        link ='https://tomasarizuportfolio.netlify.app/'
-       h3 = '3D portfolio'
-       p = 'Portfolio with some 3d figures with blender'
+       h4 = '3D portfolio'
+       p = 'Portfolio with some 3d figures in blender'
        />
        <ProjectCard 
        src={nike} 
        link ='https://github.com/tomasArizu13/Works'
-       h3 = 'Nike store'
+       h4 = 'Nike store'
        p = 'Simulation of a online nike store'
        />
        <ProjectCard 
        src={earth} 
        link ='https://github.com/tomasArizu13/threejs/tree/main/lessons'
-       h3 = 'Threejs Journey'
-       p = 'All my lessons from the Threejs course by Bruno Simon'
+       h4 = 'Threejs Journey'
+       p = 'Threejs course by Bruno Simon'
        />
        <ProjectCard 
        src={react} 
        link ='https://github.com/GITHUBZac/final-prog'
-       h3 = 'Instagram Simulation'
-       p = 'App like Instagram, were you can take pictures, upload it, comment, like the post, have a profile etc'
+       h4 = 'Instagram Simulation'
+       p = 'App like Instagram,'
        />
       </div>
     </section>
